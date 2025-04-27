@@ -1,0 +1,10 @@
+trade-screenshot.png
+user-avatar.jpg
+premium-icon.png
+cta-bg.jpg
+partner-logo-1.png
+certification-logo.png
+
+
+partner-logo-1.png
+partner-logo-1.png  certification-logo.png  hero-bg.jpg  trade-screenshot.png
